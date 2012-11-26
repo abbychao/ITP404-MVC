@@ -34,6 +34,7 @@
 
 Route::controller('home');
 Route::controller('twitter');
+Route::controller('add');
 
 Route::get('/', function()
 {

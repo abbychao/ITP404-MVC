@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<p>You searched for <?php echo $search_term ?></p>
+	<p>You searched for <?php echo $name ?></p>
 
 	<div id="tweets">
 		<ul>
